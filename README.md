@@ -1,13 +1,10 @@
-# AnalisiDeDatos_tiendas
-Análisis de datos de ventas en Colab con Python. Se exploran ingresos, calificaciones, productos más vendidos y patrones geográficos mediante visualizaciones como gráficos y mapas de calor. El objetivo es identificar la tienda con mejor rendimiento y apoyar decisiones comerciales.
-
 # Análisis de Datos - Alura Store Latam
 
 Este proyecto consiste en un análisis completo de datos de ventas de la tienda Alura Store Latam. Utiliza Python y herramientas de visualización para obtener insights sobre el comportamiento del cliente, desempeño de productos, y rendimiento geográfico de las tiendas.
 
 ---
 
-## 📌 Propósito del Análisis
+##  Propósito del Análisis
 
 El objetivo principal es explorar y visualizar los datos de ventas para:
 
@@ -26,7 +23,7 @@ El objetivo principal es explorar y visualizar los datos de ventas para:
 
 ---
 
-## 📊Ejemplos de Gráficos e Insights
+## Ejemplos de Gráficos e Insights
 
 - **Mapa de calor** con la distribución geográfica de las ventas.
 - **Gráfico de dispersión** para observar la ubicación de las tiendas.
